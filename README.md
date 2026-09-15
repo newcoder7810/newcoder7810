@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Aizat 👋
 
-<!--
-**newcoder7810/newcoder7810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Form 4 student • Future Software Engineer 🇲🇾
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying Pure Science (SPM 2027)
+- 💻 Learning HTML, CSS & JavaScript
+- ⚽ Football fan and a bigger fan of futsal. Football defender and attacking mid for futsal.
+- 🚀 Building projects for my portfolio
+
+## Current Goals
+
+- Learn Git & GitHub
+- Build 10 web projects
+- Score 12A's in every upcoming exam and 12A+ for SPM in 2027
+- Get a software engineering scholarship
+
+## Tech I'm Learning
+
+- HTML
+- CSS
+- JavaScript
+- Git
+
+## Quote
+
+> "Good things take time, make that time"
