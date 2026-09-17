@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Aizat's Github Banner" width="100%">
+
 # Hi, I'm Aizat 👋
 
 > Form 4 student • Future Software Engineer 🇲🇾
